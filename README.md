@@ -13,12 +13,15 @@ This analysis is for Louise, who wants to launch a Kickstarter campaign to fund 
 
 ## Parent Category Outcomes
 Theater Kickstarters have the highest count for all categories and a success rate of 60.23%.
+
 ![Parent Category Outcomes](https://github.com/kolemae/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 
 US theater Kickstarters have a slightly lower rate of success at 57.57%.
 
 ## Subcategory Outcomes
+Play Kickstarters have the highest count for all subcategories and the highest subcategory success rate at 65.1%.
 
+![Subcategory Outcomes](https://github.com/kolemae/kickstarter-analysis/blob/main/Subcategory%20Outcomes.png)
 
 ## Outcomes Based on Launch Date
 
