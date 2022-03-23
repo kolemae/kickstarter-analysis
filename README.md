@@ -13,6 +13,7 @@ This analysis is for Louise, who wants to launch a Kickstarter campaign to fund 
 
 ## Parent Category Outcomes
 Theater Kickstarters have the highest count for all categories and a success rate of 60.23%.
+![Global PivotChart](./classwork/parent-category-outcomes.png)
 
 US theater Kickstarters have a slightly lower rate of success at 57.57%.
 
