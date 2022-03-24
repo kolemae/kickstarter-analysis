@@ -18,7 +18,7 @@ Theater Kickstarters have the highest count for all categories, with a success r
 
 US theater Kickstarters have a rate of success at 57.57%.
 
-<img src="https://github.com/kolemae/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes%20-%20US%20Theater.png" width="288" height="481" />
+<img src="https://github.com/kolemae/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes%20-%20US%20Theater.png" width="481" height="288" />
 
 ## Subcategory Outcomes
 Play Kickstarters have the highest count for all Theater subcategories and the highest Theater subcategory success rate at 65.1%.
@@ -27,7 +27,7 @@ Play Kickstarters have the highest count for all Theater subcategories and the h
 
 Within the US, Kickstarters for plays have a success rate of 53.71%.
 
-<img src="https://github.com/kolemae/kickstarter-analysis/blob/main/Subcategory%20Outcomes%20-%20US%20Plays.png" width="288" height="481" />
+<img src="https://github.com/kolemae/kickstarter-analysis/blob/main/Subcategory%20Outcomes%20-%20US%20Plays.png" width="481" height="288" />
 
 ## Outcomes Based on Launch Date
 
